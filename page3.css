@@ -69,12 +69,15 @@ font-family: sans-serif;
 user-select: none;
 }
 .kc{
-margin-left: 480px;
-margin-top: 150px;
+margin-top: 50px;
 font-size: 18px;
 text-decoration: none;
-font-size: 150px;
+font-size: 50px;
 font-weight: bold;
 user-select:none;
 }
-
+#Hizmetler{
+font-weight: bold;
+font-size: 30px;
+text-decoration: none;
+}

@@ -69,12 +69,16 @@ font-family: sans-serif;
 user-select: none;
 }
 .kc{
-margin-left: 480px;
-margin-top: 150px;
+margin-top: 30px;
 font-size: 18px;
 text-decoration: none;
-font-size: 150px;
+font-size: 50px;
 font-weight: bold;
 user-select:none;
+}
+#hakkımda{
+text-decoration: none;
+font-size: 30px;
+font-weight: bolder;
 }
 
